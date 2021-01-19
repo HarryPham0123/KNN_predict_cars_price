@@ -1,1 +1,1 @@
-# KNN_predict_cars_price
+# KNN predict cars price
