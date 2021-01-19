@@ -1,4 +1,4 @@
-# KNN predict cars price
+# KNN model to predict cars price
 In this project, I've learn the following things:
 - K-nearest neighbors algorithm
 - Determine the best features for training by comparing rmse (root-mean-square-error) of set of numeric columns
