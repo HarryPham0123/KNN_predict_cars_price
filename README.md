@@ -6,3 +6,4 @@ In this project, I've learned the following things:
 - Apply **K-fold cross-validation** to discover the posible best way to devide data for training and testing
 
 Link data set: https://bit.ly/3snYPNf
+()[KNN_image.png]
