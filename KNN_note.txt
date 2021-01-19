@@ -1,0 +1,15 @@
+1) df.isna().sum()
+- Caculate total numbers of NULL values in all columns of df
+
+2) df.fillna(df.mean())
+- "df.mean()": the mean values of each column which are filled into NULL positions
+
+3) Permutate index of df & reindex them as a new one
+shuffle_index = np.random.permutation(df.index)
+rand_df = df.reindex(shuffle_index)
+
+4) (Note) For easy to follow
+- Transform dictionary variable view to "Series" view
+
+5) plotly.express 
+- Only supports for "dataframe/Series" not dictionary or list,... 
